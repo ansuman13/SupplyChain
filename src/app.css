@@ -1,0 +1,11 @@
+body{
+    background-repeat: no-repeat;
+    background: #215F81 ;
+    font-family: 'Poppins', sans-serif;
+}
+
+.color-box{
+    border:2px solid red;
+    height: 500px;
+    width: 90%;
+}

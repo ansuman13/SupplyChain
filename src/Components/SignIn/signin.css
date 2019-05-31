@@ -1,0 +1,64 @@
+.signin-form{
+    border: 2px solid #42A3B8;
+    padding: 20px 20px 20px 20px;
+    margin-top: 20px;   
+}
+
+.signin-image{
+    background-image: url('./signin.jpg');
+    height:100%;
+    width: 100%;
+}
+
+.test1{
+    border: 2px solid red;
+}
+
+.padding-0{
+    padding-right:0;
+    padding-left:0;
+}
+
+.equal-height{
+    height: 90%;
+    
+}
+
+.border-round-image{
+    border-top-left-radius: 2%;
+    border-bottom-left-radius: 2%;
+}
+
+.border-round-signin{
+    border-top-right-radius: 2%;
+    border-bottom-right-radius: 2%;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+}
+
+.sigin-box-row{
+    margin-top:20px;
+}
+
+.socialLogin{
+    margin-top:5%;
+}
+
+.socialLogin i{
+    padding: 5%;
+    
+}
+
+.socialLogin i:hover{
+    color:#215F81;
+}
+
+.col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.btn-supply{
+    background:#215F81;
+    color: white;
+}
